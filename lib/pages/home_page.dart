@@ -13,7 +13,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(title: Text("Mobile 1 guruh"),),
       body: Center(
-        child: Text("Qummi"),
+        child: Text("Qummi 2 "),
       ),
     );
   }
